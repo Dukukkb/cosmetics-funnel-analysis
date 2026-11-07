@@ -1,0 +1,5 @@
+pandas==2.3.3
+matplotlib==3.10.7
+nbformat==5.10.4
+jupyter
+psycopg[binary]==3.3.8
